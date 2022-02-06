@@ -5,4 +5,5 @@
 - [x] Part 3: Overworld Maps
 - [x] Part 4: Grid Based Movement
 - [x] Part 5: Character Animations
-- [ ] Part 6: Camera
+- [x] Part 6: Camera
+- [ ] Part 7: Walls & Collisions
