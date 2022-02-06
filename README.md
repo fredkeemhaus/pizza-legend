@@ -6,4 +6,5 @@
 - [x] Part 4: Grid Based Movement
 - [x] Part 5: Character Animations
 - [x] Part 6: Camera
-- [ ] Part 7: Walls & Collisions
+- [x] Part 7: Walls & Collisions
+- [ ] Part 8: Behavior & Cutscenes
