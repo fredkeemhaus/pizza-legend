@@ -7,4 +7,5 @@
 - [x] Part 5: Character Animations
 - [x] Part 6: Camera
 - [x] Part 7: Walls & Collisions
-- [ ] Part 8: Behavior & Cutscenes
+- [x] Part 8: Behavior & Cutscenes
+- [ ] Part 9: Extended Cutscene behaviors
