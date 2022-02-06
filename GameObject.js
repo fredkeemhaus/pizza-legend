@@ -8,6 +8,5 @@ class GameObject {
       src: config.src || "/images/characters/people/hero.png",
     });
   }
-
   update() {}
 }
