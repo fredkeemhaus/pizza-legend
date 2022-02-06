@@ -1,4 +1,5 @@
 # Practice Metaverse using canvas
 
 - [x] Part 1: Project Beginnings
-- [ ] Part 2: Adding GAme Objects
+- [x] Part 2: Adding Game Objects
+- [ ] Part 3: Overworld Maps
