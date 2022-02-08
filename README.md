@@ -8,4 +8,5 @@
 - [x] Part 6: Camera
 - [x] Part 7: Walls & Collisions
 - [x] Part 8: Behavior & Cutscenes
-- [ ] Part 9: Extended Cutscene behaviors
+- [x] Part 9: Extended Cutscene behaviors
+- [ ] Part 10: Typewriters & Scene Transitions
